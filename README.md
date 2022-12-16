@@ -1,1 +1,1 @@
-# bank
+Challenge: Transactional web app for a bank.
